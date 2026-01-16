@@ -160,13 +160,5 @@ The interface is served directly from the ESP32-CAM using an HTTP server.
 
 This project demonstrates that **multi-model CNN inference and ensemble learning** can be successfully implemented on a **resource-constrained embedded platform** such as ESP32-CAM. By combining efficient architectures and intelligent preprocessing, reliable handwritten digit recognition is achieved in real time.
 
----
 
-## 👤 Author
-
-**Yusuf**  
-EE4065 – Embedded Image Processing  
-ESP32-CAM Implementation
-
----
 
