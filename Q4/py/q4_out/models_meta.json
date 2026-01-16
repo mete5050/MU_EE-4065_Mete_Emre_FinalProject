@@ -1,0 +1,12 @@
+[
+  {
+    "name": "squeezenetmini",
+    "c_name": "squeezenetmini_model",
+    "tflite_path": "q4_out\\squeezenetmini_int8.tflite",
+    "q": {
+      "input_scale": 0.003921568859368563,
+      "input_zero_point": -128,
+      "output_scale": 0.00390625,
+      "output_zero_point": -128,
+      "input_shape": [
+        
