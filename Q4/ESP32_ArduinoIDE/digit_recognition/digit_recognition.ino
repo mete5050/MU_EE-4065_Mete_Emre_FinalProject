@@ -1,15 +1,4 @@
-/**
- * EE4065 Final Project - Question 4
- * Handwritten Digit Recognition with Multiple CNN Models
- * 
- * Author: Yusuf - ESP32-CAM Implementation
- * 
- * Features:
- *   - 4 different CNN architectures comparison
- *   - Model fusion with weighted averaging
- *   - Real-time web interface
- *   - Adaptive image preprocessing
- */
+
 
 #include <Arduino.h>
 #include <WiFi.h>
